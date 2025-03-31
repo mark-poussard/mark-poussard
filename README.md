@@ -2,7 +2,7 @@
 
 Welcome to my Github profile, feel free to take a look around my projects.
 
-## Projects I'd like to highlight
+## Highlights
 
 ### AI Story Generator
 
