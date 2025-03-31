@@ -12,7 +12,7 @@ Access requires your own Gemini API key.
 
 https://mark-poussard.github.io/ai-story-generator/
 
-## Monsters & Mayors
+### Monsters & Mayors
 
 An online game I created during the pandemic, it currently has 6,000+ players.
 
